@@ -11,6 +11,7 @@
 
 <svelte:head>
   <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Caveat&display=swap" rel="stylesheet">
 </svelte:head>
 
 <main>
@@ -39,8 +40,8 @@
     margin-top: 10vh;
     padding: 0;
     justify-self: center;
-    font-size: 2rem;
-    font-family: 'Press Start 2P';
+    font-size: 3rem;
+    font-family: 'Caveat';
   }
 
   .doors {

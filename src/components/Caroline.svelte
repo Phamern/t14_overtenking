@@ -136,7 +136,7 @@
 		position: absolute;
     cursor: pointer;
 		width: 100px;
-		top: 18vh;
+		top: 17vh;
     left: 8vw;
 	}
 
