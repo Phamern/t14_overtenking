@@ -5,7 +5,7 @@ let sound = './lofi.mp3'
 
 let status = ''
 if(innerWidth/innerHeight < 1.4 ) status = 'this page can only be viewed on a bigger screen...'
-console.log(innerWidth/innerHeight)
+console.log(innerWidth/innerHeight, "hei")
 
 </script>
 
