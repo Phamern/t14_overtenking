@@ -179,7 +179,7 @@
     position: absolute;
 		width: 550px;
     top: 45vh;
-		left: -12vw;
+		left: -15vw;
 	}
 
 	.character {
