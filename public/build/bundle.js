@@ -2840,9 +2840,9 @@ var app = (function () {
     			img = element("img");
     			if (img.src !== (img_src_value = /*polaroid*/ ctx[8][0])) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "polaroid");
-    			attr_dev(img, "class", "polaroid1 svelte-1iwwyhj");
+    			attr_dev(img, "class", "polaroid1 svelte-15la7up");
     			add_location(img, file$2, 81, 4, 2606);
-    			attr_dev(section, "class", "fixed svelte-1iwwyhj");
+    			attr_dev(section, "class", "fixed svelte-15la7up");
     			add_location(section, file$2, 80, 3, 2519);
     		},
     		m: function mount(target, anchor) {
@@ -2902,9 +2902,9 @@ var app = (function () {
     			img = element("img");
     			if (img.src !== (img_src_value = /*polaroid*/ ctx[8][1])) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "polaroid");
-    			attr_dev(img, "class", "polaroid1 svelte-1iwwyhj");
+    			attr_dev(img, "class", "polaroid1 svelte-15la7up");
     			add_location(img, file$2, 86, 4, 2797);
-    			attr_dev(section, "class", "fixed svelte-1iwwyhj");
+    			attr_dev(section, "class", "fixed svelte-15la7up");
     			add_location(section, file$2, 85, 3, 2710);
     		},
     		m: function mount(target, anchor) {
@@ -2964,9 +2964,9 @@ var app = (function () {
     			img = element("img");
     			if (img.src !== (img_src_value = /*polaroid*/ ctx[8][2])) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "polaroid");
-    			attr_dev(img, "class", "polaroid1 svelte-1iwwyhj");
+    			attr_dev(img, "class", "polaroid1 svelte-15la7up");
     			add_location(img, file$2, 91, 4, 2988);
-    			attr_dev(section, "class", "fixed svelte-1iwwyhj");
+    			attr_dev(section, "class", "fixed svelte-15la7up");
     			add_location(section, file$2, 90, 3, 2901);
     		},
     		m: function mount(target, anchor) {
@@ -3114,78 +3114,78 @@ var app = (function () {
     			t13 = space();
     			img11 = element("img");
     			if (img0.src !== (img0_src_value = /*backImage*/ ctx[6])) attr_dev(img0, "src", img0_src_value);
-    			attr_dev(img0, "class", "backImage svelte-1iwwyhj");
+    			attr_dev(img0, "class", "backImage svelte-15la7up");
     			attr_dev(img0, "alt", "Background");
     			add_location(img0, file$2, 45, 3, 1125);
     			if (img1.src !== (img1_src_value = /*images*/ ctx[7][0])) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "parallax");
-    			attr_dev(img1, "class", "room svelte-1iwwyhj");
+    			attr_dev(img1, "class", "room svelte-15la7up");
     			add_location(img1, file$2, 48, 6, 1264);
     			attr_dev(div0, "data-depth", ".1");
     			add_location(div0, file$2, 47, 4, 1236);
     			if (img2.src !== (img2_src_value = /*images*/ ctx[7][2])) attr_dev(img2, "src", img2_src_value);
     			attr_dev(img2, "alt", "parallax");
-    			attr_dev(img2, "class", "carpet svelte-1iwwyhj");
+    			attr_dev(img2, "class", "carpet svelte-15la7up");
     			add_location(img2, file$2, 51, 6, 1362);
     			attr_dev(div1, "data-depth", ".15");
     			add_location(div1, file$2, 50, 4, 1333);
     			if (img3.src !== (img3_src_value = /*images*/ ctx[7][3])) attr_dev(img3, "src", img3_src_value);
     			attr_dev(img3, "alt", "parallax");
-    			attr_dev(img3, "class", "sacco svelte-1iwwyhj");
+    			attr_dev(img3, "class", "sacco svelte-15la7up");
     			add_location(img3, file$2, 54, 6, 1460);
     			attr_dev(div2, "data-depth", ".12");
     			add_location(div2, file$2, 53, 4, 1431);
     			if (img4.src !== (img4_src_value = /*images*/ ctx[7][9])) attr_dev(img4, "src", img4_src_value);
     			attr_dev(img4, "alt", "parallax");
-    			attr_dev(img4, "class", "cat svelte-1iwwyhj");
+    			attr_dev(img4, "class", "cat svelte-15la7up");
     			add_location(img4, file$2, 57, 6, 1622);
     			attr_dev(div3, "data-depth", ".14");
     			add_location(div3, file$2, 56, 4, 1593);
     			if (img5.src !== (img5_src_value = /*images*/ ctx[7][6])) attr_dev(img5, "src", img5_src_value);
     			attr_dev(img5, "alt", "parallax");
-    			attr_dev(img5, "class", "pillow svelte-1iwwyhj");
+    			attr_dev(img5, "class", "pillow svelte-15la7up");
     			add_location(img5, file$2, 60, 6, 1782);
     			attr_dev(div4, "data-depth", ".12");
     			add_location(div4, file$2, 59, 4, 1753);
     			if (img6.src !== (img6_src_value = /*images*/ ctx[7][4])) attr_dev(img6, "src", img6_src_value);
     			attr_dev(img6, "alt", "parallax");
-    			attr_dev(img6, "class", "bottle svelte-1iwwyhj");
+    			attr_dev(img6, "class", "bottle svelte-15la7up");
     			add_location(img6, file$2, 63, 6, 1880);
     			attr_dev(div5, "data-depth", ".18");
     			add_location(div5, file$2, 62, 4, 1851);
     			if (img7.src !== (img7_src_value = /*images*/ ctx[7][5])) attr_dev(img7, "src", img7_src_value);
     			attr_dev(img7, "alt", "parallax");
-    			attr_dev(img7, "class", "plant svelte-1iwwyhj");
+    			attr_dev(img7, "class", "plant svelte-15la7up");
     			add_location(img7, file$2, 66, 6, 2044);
     			attr_dev(div6, "data-depth", ".22");
     			add_location(div6, file$2, 65, 4, 2015);
     			if (img8.src !== (img8_src_value = /*images*/ ctx[7][7])) attr_dev(img8, "src", img8_src_value);
     			attr_dev(img8, "alt", "parallax");
-    			attr_dev(img8, "class", "tall-plant svelte-1iwwyhj");
+    			attr_dev(img8, "class", "tall-plant svelte-15la7up");
     			add_location(img8, file$2, 69, 6, 2141);
     			attr_dev(div7, "data-depth", ".07");
     			add_location(div7, file$2, 68, 4, 2112);
     			if (img9.src !== (img9_src_value = /*images*/ ctx[7][8])) attr_dev(img9, "src", img9_src_value);
     			attr_dev(img9, "alt", "parallax");
-    			attr_dev(img9, "class", "character svelte-1iwwyhj");
+    			attr_dev(img9, "class", "character svelte-15la7up");
     			add_location(img9, file$2, 72, 6, 2243);
     			attr_dev(div8, "data-depth", ".13");
     			add_location(div8, file$2, 71, 4, 2214);
     			if (img10.src !== (img10_src_value = /*images*/ ctx[7][1])) attr_dev(img10, "src", img10_src_value);
     			attr_dev(img10, "alt", "parallax");
-    			attr_dev(img10, "class", "books svelte-1iwwyhj");
+    			attr_dev(img10, "class", "books svelte-15la7up");
     			add_location(img10, file$2, 75, 5, 2409);
     			attr_dev(div9, "data-depth", ".28");
     			add_location(div9, file$2, 74, 4, 2381);
     			attr_dev(div10, "data-pointer-events", "true");
     			add_location(div10, file$2, 46, 3, 1189);
-    			attr_dev(section, "class", "svelte-1iwwyhj");
+    			attr_dev(section, "class", "svelte-15la7up");
     			add_location(section, file$2, 44, 2, 1112);
-    			attr_dev(main, "class", "svelte-1iwwyhj");
+    			attr_dev(main, "class", "svelte-15la7up");
     			add_location(main, file$2, 43, 0, 1102);
     			if (img11.src !== (img11_src_value = /*doorIcon*/ ctx[5])) attr_dev(img11, "src", img11_src_value);
     			attr_dev(img11, "alt", "doorIcon");
-    			attr_dev(img11, "class", "door-icon svelte-1iwwyhj");
+    			attr_dev(img11, "class", "door-icon svelte-15la7up");
     			add_location(img11, file$2, 95, 0, 3079);
     		},
     		l: function claim(nodes) {
