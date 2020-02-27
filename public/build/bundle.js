@@ -2088,7 +2088,7 @@ var app = (function () {
     	let polaroid1 = "";
     	let polaroid2 = "";
     	let polaroid3 = "";
-    	let backImage = "./images/Iris/iris_background.png";
+    	let backImage = "./images/Iris/iris_background.PNG";
 
     	let images = [
     		"./images/Iris/iris_room.PNG",
@@ -3133,13 +3133,13 @@ var app = (function () {
     			attr_dev(img3, "alt", "parallax");
     			attr_dev(img3, "class", "sacco svelte-1iwwyhj");
     			add_location(img3, file$2, 54, 6, 1460);
-    			attr_dev(div2, "data-depth", ".22");
+    			attr_dev(div2, "data-depth", ".12");
     			add_location(div2, file$2, 53, 4, 1431);
     			if (img4.src !== (img4_src_value = /*images*/ ctx[7][9])) attr_dev(img4, "src", img4_src_value);
     			attr_dev(img4, "alt", "parallax");
     			attr_dev(img4, "class", "cat svelte-1iwwyhj");
     			add_location(img4, file$2, 57, 6, 1622);
-    			attr_dev(div3, "data-depth", ".24");
+    			attr_dev(div3, "data-depth", ".14");
     			add_location(div3, file$2, 56, 4, 1593);
     			if (img5.src !== (img5_src_value = /*images*/ ctx[7][6])) attr_dev(img5, "src", img5_src_value);
     			attr_dev(img5, "alt", "parallax");
@@ -3151,25 +3151,25 @@ var app = (function () {
     			attr_dev(img6, "alt", "parallax");
     			attr_dev(img6, "class", "bottle svelte-1iwwyhj");
     			add_location(img6, file$2, 63, 6, 1880);
-    			attr_dev(div5, "data-depth", ".08");
+    			attr_dev(div5, "data-depth", ".18");
     			add_location(div5, file$2, 62, 4, 1851);
     			if (img7.src !== (img7_src_value = /*images*/ ctx[7][5])) attr_dev(img7, "src", img7_src_value);
     			attr_dev(img7, "alt", "parallax");
     			attr_dev(img7, "class", "plant svelte-1iwwyhj");
     			add_location(img7, file$2, 66, 6, 2044);
-    			attr_dev(div6, "data-depth", ".12");
+    			attr_dev(div6, "data-depth", ".22");
     			add_location(div6, file$2, 65, 4, 2015);
     			if (img8.src !== (img8_src_value = /*images*/ ctx[7][7])) attr_dev(img8, "src", img8_src_value);
     			attr_dev(img8, "alt", "parallax");
     			attr_dev(img8, "class", "tall-plant svelte-1iwwyhj");
     			add_location(img8, file$2, 69, 6, 2141);
-    			attr_dev(div7, "data-depth", ".12");
+    			attr_dev(div7, "data-depth", ".07");
     			add_location(div7, file$2, 68, 4, 2112);
     			if (img9.src !== (img9_src_value = /*images*/ ctx[7][8])) attr_dev(img9, "src", img9_src_value);
     			attr_dev(img9, "alt", "parallax");
     			attr_dev(img9, "class", "character svelte-1iwwyhj");
     			add_location(img9, file$2, 72, 6, 2243);
-    			attr_dev(div8, "data-depth", ".12");
+    			attr_dev(div8, "data-depth", ".13");
     			add_location(div8, file$2, 71, 4, 2214);
     			if (img10.src !== (img10_src_value = /*images*/ ctx[7][1])) attr_dev(img10, "src", img10_src_value);
     			attr_dev(img10, "alt", "parallax");
@@ -4126,7 +4126,7 @@ var app = (function () {
     			h1 = element("h1");
     			t = text(/*status*/ ctx[0]);
     			attr_dev(h1, "class", "svelte-10cduyy");
-    			add_location(h1, file$5, 15, 2, 323);
+    			add_location(h1, file$5, 15, 2, 330);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, h1, anchor);
@@ -4172,8 +4172,8 @@ var app = (function () {
     			if (audio.src !== (audio_src_value = /*sound*/ ctx[1])) attr_dev(audio, "src", audio_src_value);
     			audio.autoplay = true;
     			audio.loop = true;
-    			add_location(audio, file$5, 13, 1, 261);
-    			add_location(main, file$5, 11, 0, 242);
+    			add_location(audio, file$5, 13, 1, 268);
+    			add_location(main, file$5, 11, 0, 249);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -4232,7 +4232,7 @@ var app = (function () {
     	let sound = "./lofi.mp3";
     	let status = "";
     	if (innerWidth / innerHeight < 1.4) status = "this page can only be viewed on a bigger screen...";
-    	console.log(innerWidth / innerHeight);
+    	console.log(innerWidth / innerHeight, "hei");
 
     	$$self.$capture_state = () => {
     		return {};

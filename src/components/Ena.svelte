@@ -51,25 +51,25 @@
 				<div data-depth='.15'>
 						<img src='{images[2]}' alt='parallax' class='carpet'>
 				</div>
-				<div data-depth='.22'>
+				<div data-depth='.12'>
 						<img on:click={() =>  {polaroid2 = active ? polaroid2 : !polaroid2 }} src='{images[3]}' alt='parallax' class='sacco'>
 				</div>
-				<div data-depth='.24'>
+				<div data-depth='.14'>
 						<img on:click={() =>  {polaroid2 = active ? polaroid2 : !polaroid2 }} src='{images[9]}' alt='parallax' class='cat'>
 				</div>
 				<div data-depth='.12'>
 						<img src='{images[6]}' alt='parallax' class='pillow'>
 				</div>
-				<div data-depth='.08'>
+				<div data-depth='.18'>
 						<img on:click={() =>  {polaroid1 = active ? polaroid1 : !polaroid1 } } src='{images[4]}' alt='parallax' class='bottle'>
 				</div>
-				<div data-depth='.12'>
+				<div data-depth='.22'>
 						<img src='{images[5]}' alt='parallax' class='plant'>
 				</div>
-				<div data-depth='.12'>
+				<div data-depth='.07'>
 						<img src='{images[7]}' alt='parallax' class='tall-plant'>
 				</div>
-				<div data-depth='.12'>
+				<div data-depth='.13'>
 						<img on:click={() =>  {polaroid3 = active ? polaroid3 : !polaroid3 } } src='{images[8]}' alt='parallax' class='character'>
 				</div>
 				<div data-depth='.28'>

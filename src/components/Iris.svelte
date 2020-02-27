@@ -11,7 +11,7 @@
 	let polaroid2 = ''
 	let polaroid3 = ''
 
-	let backImage = './images/Iris/iris_background.png'
+	let backImage = './images/Iris/iris_background.PNG'
 
   
 	let images = [
@@ -82,9 +82,6 @@
 
 </main>
 <img on:click={() => dispatch('hideMe')} src='{doorIcon}' alt='doorIcon' class='door-icon'/>
-
-
-
 
 <style>
 	main {
