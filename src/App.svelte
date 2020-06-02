@@ -18,7 +18,7 @@ if(innerWidth/innerHeight < 1.4 ) status = 'this page can only be viewed on a bi
 
 <style>
 
-h1{
+h1 {
 	width:100vw;
 	height:100vh;
 	display:grid;
@@ -26,7 +26,6 @@ h1{
 	position:fixed;
 	top:0;
 	left:0;
-	background-color: white;
 	overflow: hidden;
 }
 

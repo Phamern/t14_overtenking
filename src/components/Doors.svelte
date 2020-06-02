@@ -24,7 +24,6 @@
 
 </main>
 
-
 <style>
 
   main {
@@ -33,7 +32,6 @@
     height: 100vh;
     display: grid;
   }
-
 
   h1 {
     margin: 0;

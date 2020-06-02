@@ -9,8 +9,6 @@ export let myNumber, src
 
 let show = false;
 
-
-
 const hideMe = () => {
   show = !show
 }
@@ -47,9 +45,11 @@ const hideMe = () => {
   .doors0 {
     width: 17vw;
   }
+
   .doors1 {
     width: 15vw;
   }
+  
   .doors2 {
     width: 15.2vw;
   }
